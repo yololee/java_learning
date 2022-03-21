@@ -1,4 +1,8 @@
-# java_learning
+# 												JavaLearning
+
+​																													[GitHub](https://github.com/Yolo229/java_learning) | [Gitee](https://gitee.com/huanglei1111/java_learning) | [CSDN](https://blog.csdn.net/weixin_43296313?type=blog)
+
+> **转载须知** ：以下所有文章如非文首说明为转载皆为我（Yolo）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境
 
 ## 面试题
 

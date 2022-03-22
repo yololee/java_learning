@@ -201,3 +201,10 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 ```
 
+## 六、代码示例
+
+本文的相关例子可以查看下面仓库中的`springboot-yolo-1-1`目录：
+
+GitHub：https://github.com/Yolo229/springboot_learning
+
+Gitee：https://gitee.com/huanglei1111/springboot_learning

@@ -375,9 +375,11 @@ MY_FOO_1_2 = my.foo[1][2]
 - 唯一允许的其他字符是`[`和`]`，用于List的索引
 - 不能以数字开头
 
-> 本教程配套仓库：
->
-> GitHub：https://github.com/Yolo229/springboot_learning
->
-> Gitee：https://gitee.com/huanglei1111/springboot_learning
+## 九、代码示例
+
+本文的相关例子可以查看下面仓库中的`springboot-yolo-2-1`目录：
+
+GitHub：https://github.com/Yolo229/springboot_learning
+
+Gitee：https://gitee.com/huanglei1111/springboot_learning
 

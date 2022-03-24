@@ -26,5 +26,6 @@
 - [SpringBoot-2.x：快速入门](https://github.com/Yolo229/java_learning/blob/main/doc/springboot-2.x/springboot-2.x%EF%BC%9A%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/springboot-2.x%EF%BC%9A%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
 - [SpringBoot-2.x：配置详解](https://github.com/Yolo229/java_learning/blob/main/doc/springboot-2.x/springboot-2.x%EF%BC%9A%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3/springboot-2.x%EF%BC%9A%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3.md)
 
-
+- [SpringBoot-2.x：restful API和单元测试](https://github.com/Yolo229/java_learning/blob/main/doc/springboot-2.x/springboot-2.x%EF%BC%9AApi%E5%BC%80%E5%8F%91/SpringBoot-2.x%EF%BC%9A%E6%9E%84%E5%BB%BARESTful%20API%E4%B8%8E%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/SpringBoot-2.x%EF%BC%9A%E6%9E%84%E5%BB%BARESTful%20API%E4%B8%8E%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
+- [SpringBoot-2.x：Swagger2构建API文档](https://github.com/Yolo229/java_learning/blob/main/doc/springboot-2.x/springboot-2.x%EF%BC%9AApi%E5%BC%80%E5%8F%91/SpringBoot-2.x%EF%BC%9A%E4%BD%BF%E7%94%A8Swagger2%E6%9E%84%E5%BB%BAAPI%E6%96%87%E6%A1%A3/SpringBoot-2.x%EF%BC%9A%E4%BD%BF%E7%94%A8Swagger2%E6%9E%84%E5%BB%BAAPI%E6%96%87%E6%A1%A3.md)
 
